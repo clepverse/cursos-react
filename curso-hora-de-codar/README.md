@@ -1,4 +1,4 @@
-## Curso React - Hora de Codar
+## Curso React - Canal Hora de Codar
 
 Comandos para rodar os arquivos:
 
