@@ -1,4 +1,4 @@
-## Curso CFB React
+## Curso React - Canal CFB Cursos
 
 Comandos para rodar os arquivos:
 
